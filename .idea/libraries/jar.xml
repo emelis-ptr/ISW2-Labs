@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/json-20190722.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/org-eclipse-jgit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/slf4j-log4j12-1.7.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
