@@ -50,6 +50,7 @@ public class Main {
             }
         }
 
+        LogFile.setupLogger();
         if (list.isEmpty()) {
             LogFile.warnLog("Lista vuota");
         } else {
