@@ -20,7 +20,7 @@ import java.util.*;
 
 import static utils.Costants.*;
 
-public class LabTwo {
+public class RetrieveFile {
 
     public static void main(String[] args) {
         try {
